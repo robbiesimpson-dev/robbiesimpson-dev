@@ -13,7 +13,7 @@
 ### 🔥 About Me
 - 🎓 I hold a Bachelor's degree in Computer Science.
   
-- 💼 I have 8+ years of experience as a full stack developer, working with **React.js/Vue.js**, **PHP/Node.js**, and **Java**.
+- 💼 I have 8+ years of experience as a full stack developer, working with **React.js/Vue.js**, **PHP/Node.js/C#**, and **Java**.
   
 - ✅ I completed many web applications in various fields like healthcare, education, heavy equipment and social media platforms.
   
