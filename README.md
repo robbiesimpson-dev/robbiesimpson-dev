@@ -11,7 +11,7 @@
 ---
 
 ### 🔥 About Me
-- 🎓 I hold a Bachelor's degree in Computer Science and I'm currently pursuing a **Master's in Computer Science at Trinity University**.
+- 🎓 I hold a Bachelor's degree in Computer Science.
   
 - 💼 I have 8+ years of experience as a full stack developer, working with **React.js/Vue.js**, **PHP/Node.js**, and **Java**.
   
